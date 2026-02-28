@@ -24,5 +24,6 @@ public class UseCase1PalindromeCheckerApp {
         // Program Flow Control
         System.out.println("Application started successfully.");
         System.out.println("Proceeding to next use case...");
+    System.out.println("Testing PR workflow");
     }
 }
